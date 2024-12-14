@@ -1,5 +1,5 @@
 # Stunned Cat
-A side-scrolling game developed in **Java** featuring a beat-matching rhythm system to enhance gameplay experience. Responsible for creating objects on the map by reading from a txt file and developing the rhythm system, including beat detection and keypress results.
+A side-scrolling game developed in **Java** featuring a beat-matching rhythm system to enhance gameplay experience. Responsible for creating objects on the map by reading from txt files and developing the rhythm system, including beat detection and keypress results.
 
 [Stunned Cat _一頁A4遊戲介紹.pdf](https://github.com/user-attachments/files/17986399/Stunned.Cat._.A4.pdf)
 
